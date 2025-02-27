@@ -1,0 +1,24 @@
+// yarn run dev (run the app by using this command)
+
+// shadcnui - https://ui.shadcn.com/  (its used for to get code for different kind of button)
+
+// Clerk - https://go.clerk.com/jxTyzlj ( for login authentication checkup)
+
+// Inngest - https://innge.st/yt-rsc1 (for trigger to send alert email and provide a protection)
+
+// Arcjet - https://launch.arcjet.com/n5oLgHV ( for Provide a security platform that helps developers protect web applications from attacks. It can be used for rate limiting, bot detection, email validation, and more)
+
+//supabase for backend - https://supabase.com/dashboard/projects
+
+// inngest - doc- next.js ( add Inngest to a Next.js app to see how easy it can be to build complex workflows.) - https://www.inngest.com/
+//(npx inngest-cli@latest dev)
+ // Then Its provide a one local Link, based on the Link, we can access the message alert through email
+
+
+
+// react.email - https://react.email/ (how to setup the email alert details, all store in this webpage)
+
+// npm run email - Its can provide setup for the email alert - It can only provide the template of the email
+
+// Resend - https://resend.com/docs/send-with-nextjs (Its a cloud based email sending platform, easily integrate email functionalities into their applications through a simple API.)
+ //https://resend.com/emails - create a platform for your application which generate the API code.
